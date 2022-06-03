@@ -1,0 +1,1 @@
+This project explores Bootstrap using one of my music projects as an example website.
